@@ -3,3 +3,8 @@ Python version of the Hangman Game (Jeu du Pendu) by Praise Mazowa and Gaëtan S
 
 * Praise Mazowa [pmazowa@gmail.com](mailto:pmazowa@gmail.com) 
 * Gaëtan Suenge [gaetansg26@gmail.com](mailto:gaetansg26@gmail.com)
+
+# 🚧 Must be installed before use 🚧
+
+* ```python```
+* ```pip install click```
